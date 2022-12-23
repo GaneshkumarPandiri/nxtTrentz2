@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.content-products {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.image-style {
+  height: 300px;
+}
